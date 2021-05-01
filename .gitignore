@@ -1,0 +1,6 @@
+/node_modules
+.cache/
+.vscode
+/package-lock.json
+/dist
+/mockjs-axios-demo/node_modules
