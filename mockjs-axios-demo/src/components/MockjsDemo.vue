@@ -22,6 +22,7 @@
 
 <script>
 import service from '../service';
+// import service from '../service';
 export default {
   name: 'MockJsDemo',
   data(){
